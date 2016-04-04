@@ -1,7 +1,7 @@
 # Sudoku
 Solveur de Sudoku, réaliser en language C
 
-Pour Compiler le projet :
+Pour Compiler le projet :  
 1- Se rendre dans le répertoire du projet 
 $cd version1 (ou cd version2)  
 
